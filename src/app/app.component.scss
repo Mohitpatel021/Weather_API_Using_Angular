@@ -1,0 +1,40 @@
+   /* Style the main container */
+   .main-container {
+    height: 100vh;
+    background-color: #f0f0f0;
+    padding: 20px;
+  }
+
+  /* Style the form elements */
+  label {
+    font-weight: bold;
+  }
+
+  .form-control {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+
+  .search-button {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+
+  .search-button:hover {
+    background-color: #0056b3;
+  }
+
+  /* Style the weather info container */
+  .weather-info {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin-top: 20px;
+    background-color: #fff;
+  }
